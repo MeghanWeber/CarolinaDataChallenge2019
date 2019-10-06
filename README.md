@@ -8,6 +8,7 @@ The Link to the Dashboard Created:
 https://public.tableau.com/profile/meghan.weber2859#!/vizhome/UNCDataChallenge/Story1
 
 Data Source: 
+
 https://www.ers.usda.gov/Data/FeedGrains/
 
 The purpose of this data exploration was to evaluate agricultural data about feedgrains. We specifically focused on sorghum because the United States produces 75% of the worlds Sorghum and China imports 80% of this. We were interested to see what the impact of the trade wars had on this crop. 
@@ -15,4 +16,5 @@ The purpose of this data exploration was to evaluate agricultural data about fee
 The team created a time series ARIMA model to predict what the true economic impact was of these trade wars on farmers. It was determined that from April 2018 to June 2019, the United States has had a loss of $968 million.
 
 Alternate sources were used to led us to use this approach and evaluate Sorghum specifically: 
+
 https://www.ustradenumbers.com/export/grain-sorghum/
