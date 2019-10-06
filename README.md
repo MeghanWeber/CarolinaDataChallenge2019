@@ -11,7 +11,7 @@ Data Source:
 
 https://www.ers.usda.gov/Data/FeedGrains/
 
-The purpose of this data exploration was to evaluate agricultural data about feedgrains. We specifically focused on sorghum because the United States produces 75% of the worlds Sorghum and China imports 80% of this. We were interested to see what the impact of the trade wars had on this crop. 
+The purpose of this project was to evaluate agricultural data about feedgrains. The team specifically focused on sorghum because the United States produces 75% of the worlds Sorghum and China imports 80% of this. The team was interested to see what the impact of the trade wars had on this crop. 
 
 The team created a time series ARIMA model to predict what the true economic impact was of these trade wars on farmers. It was determined that from April 2018 to June 2019, the United States has had a loss of $968 million.
 
