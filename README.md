@@ -1,2 +1,2 @@
 # CarolinaDataChallenge2019
-24 hour hackathon results
+Won for the "Best Insights"
