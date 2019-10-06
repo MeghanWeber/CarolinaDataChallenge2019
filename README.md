@@ -15,6 +15,8 @@ The purpose of this project was to evaluate agricultural data about feedgrains. 
 
 The team created a time series ARIMA model to predict what the true economic impact was of these trade wars on farmers. It was determined that from April 2018 to June 2019, the United States has had a loss of $968 million.
 
+For the time series analysis, the data needed to be adjusted for the seasonal as well as the trend components. The team ultinately implemented an ARIMA(6,0,6) model with 6 fourier transformations, after adjusting for the seasonality. 
+
 Alternate sources were used to led us to use this approach and evaluate Sorghum specifically: 
 
 https://www.ustradenumbers.com/export/grain-sorghum/
