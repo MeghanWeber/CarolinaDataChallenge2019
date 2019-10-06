@@ -1,5 +1,5 @@
 # CarolinaDataChallenge2019
-Won First Place for the "Best Insights"
+Won First Place for the "Best Insights".
 This hackathon lasted a total of 24 hours and was hosted at the University of North Carolina, Chappel Hill.
 I was accompanied by 3 classmates from the Institute of Advanced Analytics to compelete this project.
 
